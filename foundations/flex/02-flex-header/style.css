@@ -21,11 +21,9 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
-  margin: 10px;
-  padding: 5px;
-  
-  box-sizing: border-box;
-  align-items: baseline;
+  margin: 0;
+  padding: 0;
+
 }
 
 a {
